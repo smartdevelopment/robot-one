@@ -65,7 +65,7 @@ public class PruebasMainn {
 
 			if (robot.getTipoRobot().equals("OSOYOO")) {
 				distanciasAdvanc = distanciasAdvanc
-						+ robot.calcularDistancia(10);
+						+ robot.calcularDistancia(20);
 				contadorA++;
 			}
 
